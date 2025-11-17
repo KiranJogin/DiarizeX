@@ -1,4 +1,4 @@
-# 🎙️ SpeakerSplit
+# 🎙️ DiarizeX-Speaker Diarization and Transcription
 ### AI-Powered Multi-Speaker Diarization, Voice Separation & Transcription System
 
 SpeakerSplit is an advanced AI-based voice processing application designed for **speaker diarization**, **audio separation**, and **speech transcription**. It takes a single mixed-audio file containing multiple speakers and produces **clean, isolated audio tracks for each speaker** along with **speaker-labeled transcription text**.
